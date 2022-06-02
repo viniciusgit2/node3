@@ -1,0 +1,1 @@
+const module=require("./ex05_teste")
